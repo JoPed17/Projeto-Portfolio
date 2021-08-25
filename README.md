@@ -6,6 +6,6 @@ Site desenvolvido de acordo com o tutorial do [João Carlos](https://www.youtube
 
 Site feito em HTML, CSS e JavaScript 
 
-
+Você pode vê-lo [aqui](https://joped17.github.io/Projeto-Portfolio/)
 
 
